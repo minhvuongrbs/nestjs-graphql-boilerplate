@@ -24,7 +24,6 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 A boilerplate project for Nestjs that includes the following stacks:
 - Postgresql
 - Graphql
